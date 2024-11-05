@@ -6,6 +6,14 @@
 <img src="https://64.media.tumblr.com/624de2427331957cd70f58bf0b8ae0c8/13e0c248166cd00b-50/s540x810/0ba55c32b75422bdb703f251a8df030d122ecee8.gif" align="center"/>
 <h2>✨ I’m currently working on Indie Game Deveoplment Projects ✨</h2>
   <h2>LITTLE DELIGHTS🍰</h2>
+  <p>**Deputy Jones** is new in a town that is known for it sugary treats. **Deputy Jones** hates sweets and is **deathly** allergic to chocolate , but he is tasked with looking over things while the town of Molasswick, sets up for their annual Sweet Teeth festival. 
+
+But strange things begin to occur prior to the big day of the festival…
+
+Its up to Deputy Jones to solve the case!</p>
+.
+.
+.
 <h3>LANGUAGES</h3>
 <p align="center">
   <a href="https://skillicons.dev">

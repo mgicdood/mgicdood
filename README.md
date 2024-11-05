@@ -5,6 +5,7 @@
 <p align="center"><small>many future projects to come! ^^</small></p>
 <img src="https://64.media.tumblr.com/624de2427331957cd70f58bf0b8ae0c8/13e0c248166cd00b-50/s540x810/0ba55c32b75422bdb703f251a8df030d122ecee8.gif" align="center"/>
 <h2>✨ I’m currently working on Indie Game Deveoplment Projects ✨</h2>
+  <h2>LITTLE DELIGHTS🍰</h2>
 <h3>LANGUAGES</h3>
 <p align="center">
   <a href="https://skillicons.dev">

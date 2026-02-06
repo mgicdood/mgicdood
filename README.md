@@ -17,7 +17,7 @@ Its up to Deputy Jones to solve the case!</p>
 <h3>LANGUAGES</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,lua,js" />
+    <img src="https://skillicons.dev/icons?i=cs,py,lua,ruby" />
   </a>
 </p>
 <h3>TOOLS</h3>

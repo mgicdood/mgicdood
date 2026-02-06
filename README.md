@@ -29,7 +29,7 @@ Its up to Deputy Jones to solve the case!</p>
 <img src="https://64.media.tumblr.com/624de2427331957cd70f58bf0b8ae0c8/13e0c248166cd00b-50/s540x810/0ba55c32b75422bdb703f251a8df030d122ecee8.gif" align="center"/>
 <h3> 🏴‍☠️ Fact about me! 🏴‍☠️I'm a huge One Piece fan!👒🌞 </h3>
 <div>
-<img src="https://seeklogo.com/images/O/one-piece-logo-A80CEB54CC-seeklogo.com.png"/>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F13%2FOne-Piece-Logo-PNG-Photo.png&f=1&nofb=1&ipt=5d4d74ac06bf9b30de9f5636e8d650c8ef3b8af0a8f30f869b930b4c822b290a"/>
 </div>
 <img src="https://media1.tenor.com/m/of7YkoZ_FPUAAAAd/one-piece-paint.gif"/>
 
@@ -37,12 +37,4 @@ Its up to Deputy Jones to solve the case!</p>
 
 <h2 align="center"><img src="https://64.media.tumblr.com/412b7d4d8e8e3fa7af140ba20eca07b4/8d4566e7562e8fab-d3/s1280x1920/16cfd38aa3e10c12c2a7e4abd64e153e24d17c14.gif" align="center"/></h2>
 
-</div>
-<div align="center">
-  <img src="https://www.honkaistarrail.wiki/images/5/56/HSR_Logo.png" width=250/>
-  <h4> My Team!</h4>
-  <img src="https://media.tenor.com/GZ_va_Ggnq8AAAAi/jingliu-jingliu-honkai-star-rail.gif" width="200"/>
-  <img src="https://media.tenor.com/ZQlYdiJRvRMAAAAi/himeko-himko-stari-rail.gif" width="200"/>
-  <img src="https://media.tenor.com/vXdUqjXeijgAAAAi/ruan-mei-hsr.gif" width="200"/>
-  <img src="https://media.tenor.com/demHdMJFG5oAAAAi/luocha-honkia-star-rail-luocha.gif" width="200"/>
 </div>
